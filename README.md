@@ -1,5 +1,5 @@
 # quera-iran-map
-use npm install to instal to install required packages in iran-map folder
+use npm install to install required packages in iran-map folder
 
 use npm run server 
 
